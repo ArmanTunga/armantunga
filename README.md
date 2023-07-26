@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="250" height="250" src="https://github.com/ArmanTunga/armantunga/blob/main/src/duck.gif" />
 
 # 💫 About Me:
-🔭 I’m currently working on Data Science<br><br>🌱 I’m currently learning DS and ML in Miuul DS & ML Bootcamp<br><br>💬 Ask me about anything, I love helping!<br><br>📫 Feel free to reach me: armantunga@gmail.com
+🔭 I’m currently working on Data Science<br><br>💬 Ask me about anything, I love helping!<br><br>📫 Feel free to reach me: armantunga@gmail.com
 
 
 ## 🌐 Socials:
